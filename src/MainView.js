@@ -4,6 +4,9 @@ import './MainView.css';
 import {GetTrackInfo} from './GetTrackInfo';
 import AudioPlayer from './AudioPlayer';
 
+
+
+
 class MainView extends React.Component {
 
   render(){

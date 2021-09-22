@@ -5,7 +5,7 @@ export class ShowTrackList extends React.Component {
     return (
 
       <div className="Text">
-        <div><p id="radioname">Chiptune 24/7</p></div>
+        <div><p id="radioname">TikTok Radio 24/7</p></div>
         <div><p id = "albumlogo"><img id="albumlogoimg" src={this.props.t.logo} width="650" height="650" alt="logo.jpg"></img></p></div>
         {/* <p id = "track">Композиция: {this.props.t.track}</p> */}
         {/* <p id = "album">Альбом: {this.props.t.album}</p>  */}

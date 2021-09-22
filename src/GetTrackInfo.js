@@ -13,7 +13,7 @@ export class GetTrackInfo extends React.Component {
 
     var config = {
       method: 'get',
-      url: 'http://212.109.195.123/api/nowplaying/8bit',
+      url: 'http://87.249.44.34/api/nowplaying/tiktok_radio',
       headers: {}
     };
 
